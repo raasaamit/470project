@@ -1,0 +1,37 @@
+.email{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.email h1{
+	font-size: 50px;
+	color: #DC143C;
+}
+.Insert{
+	position: absolute;
+	top: 17%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.Insert h5{
+	font-size: 20px;
+	color: #00FFFF;
+}
+.form{
+	width: 300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #fff;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+	top: 50%;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(nn.jpg);
+	background-size: cover;
+	background-position: center;
+}

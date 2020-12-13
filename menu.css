@@ -1,0 +1,20 @@
+.menu{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.menu h1{
+	font-size: 50px;
+	color: #00FFFF;
+}
+table{
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	table-layout: fixed;
+}
